@@ -1,0 +1,8 @@
+"occupation_classification_id","occupation_group","occupation_rank","order_of_display"
+"1","White Collar","Low White Collar","1"
+"2","White Collar","High White Collar","2"
+"3","Blue Collar","Unskilled/Menial Service","1"
+"4","Blue Collar","Semi-Skilled/Service Worker","2"
+"5","Blue Collar","Skilled","3"
+"6","Blue Collar",,"0"
+"7","White Collar",,"0"

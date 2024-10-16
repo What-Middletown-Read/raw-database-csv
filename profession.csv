@@ -1,0 +1,306 @@
+"PROFESSION_ID","PROFESSION_TITLE","PROFESSION_CLASS"
+"1","Lineman",
+"2","Domestic","Domestic"
+"3","Unknown",
+"4","Attorney","Attorney"
+"5","Civil Engineer",
+"6","Musician","Musician"
+"7","Proprietor","Proprietor"
+"8","Physician","Doctor"
+"9","Blacksmith",
+"10","Laborer","Laborer"
+"11","Clerk","Clerk"
+"12","Teacher","Teacher"
+"13","Finisher",
+"14","Paper Hanger",
+"15","Bookkeeper","Accountant"
+"16","Carrier",
+"17","Cigar Maker",
+"18","Sales","Sales"
+"19","Helper",
+"20","Manager",
+"21","Works",
+"22","Student","At School"
+"23","Secretary",
+"24","Artist",
+"25","Stenographer",
+"26","Delivery",
+"27","Baker",
+"28","Druggist","Chemist"
+"29","Architect",
+"30","Blower",
+"31","Professional",
+"32","Dealer","Dealer"
+"33","Plumber",
+"34","Wife",
+"35","Daughter",
+"36","at school (9)","At School"
+"37","Son",
+"38","Not Available",
+"39","glass cutter",
+"41","manufacturer",
+"42","Messenger Boy",
+"43","saleswoman","Sales"
+"44","nurse","Nurse"
+"45","stone cutter",
+"46","Horticulturist",
+"47","illeg",
+"48","plasterer",
+"49","dentist",
+"50","worker",
+"51","florist",
+"52","cashier",
+"53","day laborer","Laborer"
+"54","at school [8]","At School"
+"56","packer",
+"57","at school (6)","At School"
+"58","compositor",
+"59","grocer",
+"60","music teacher","Teacher"
+"61","catcher",
+"62","at school (2)","At School"
+"63","accountant","Accountant"
+"64","fireman",
+"65","prentice","Apprentice"
+"66","at school (5)","At School"
+"67","night watch",
+"68","merchant","Merchant"
+"69","foreman","Foreman"
+"70","bootblack",
+"71","weaver",
+"72","straightener",
+"73","engineer",
+"74","store keeper",
+"75","Keeping House",
+"76","Notary Public",
+"77","Brick Layer",
+"78","Laundress",
+"79","Painter",
+"80","Seamstress",
+"81","Editor",
+"82","Farmer",
+"83","Cast Iron Molder",
+"84","At School","At School"
+"85","Glass Blower",
+"86","Broomman",
+"87","Auditor",
+"88","Typewriter",
+"89","Professor",
+"90","Railroad",
+"91","Doctor","Doctor"
+"92","Typesetter",
+"93","Post Master",
+"94","Inspector",
+"95","Dress Maker",
+"96","Pianist","Musician"
+"97","Repairman",
+"98","Minister","Clergyman"
+"99","Driller",
+"100","Lawyer","Attorney"
+"101","Tailor","Tailor"
+"102","Clergyman",
+"103","Pattern Maker",
+"104","Land Lord",
+"105","Weigh Master",
+"106","Printer",
+"107","Porter Saloon","Porter"
+"108","Telephone Operator",
+"109","Canvasser",
+"110","Milliner",
+"111","Boarding House","Boarding House"
+"112","Real Estate",
+"113","Carpenter",
+"114","Assistant",
+"115","Porter Grocery","Porter"
+"116","Miner",
+"117","Agent",
+"118","House Keeper","Domestic"
+"119","Rents",
+"120","Capitalist",
+"121","Electrician",
+"122","Military","Military"
+"123","Brass Foundaryman",
+"124","Shoe Operator",
+"125","spoke polisher",
+"126","butcher",
+"127","Miliner",
+"128","Justice of the Peace",
+"129","traveling salesman","Sales"
+"130","broker",
+"131","Yard Master, R.R.",
+"132","Invalid",
+"133","Superintendent",
+"134","Billiard Hall",
+"135","Music Student","At School"
+"136","Machinist",
+"137","Jeweler",
+"138","driver",
+"139","farm worker",
+"140","gardener",
+"142","casket trimmer",
+"143","Librarian",
+"144","salesman","Sales"
+"145","Barber",
+"146","Carriage Maker",
+"147","City Official",
+"148","gatherer",
+"149","heater-iron mill",
+"150","Molder Stoves","Molder"
+"151","School teacher","Teacher"
+"152","partner in bakery",
+"153","laster",
+"154","Feed Mill Owner",
+"155","Chemist","Chemist"
+"156","Iron Roller",
+"157","glass gatherer",
+"158","shoe salesman","Sales"
+"159","woodworker",
+"160","School teaching","Teacher"
+"161","newspaper reporter","Journalist"
+"162","hair dresser",
+"164","Telegraph Operator","Telegraph Operator"
+"165","Miller",
+"166","Shoemaker",
+"167","shearer (steel)",
+"168","collector",
+"169","laborer, glass factory","Laborer"
+"170","waitress",
+"171","bartender",
+"172","keeping roomers","Boarding House"
+"173","section boss RR",
+"174","dry goods merchant","Merchant"
+"175","county treasurer",
+"176","boiler-iron mill","Boiler"
+"177","lawyer and abstractor","Attorney"
+"178","plumber helper",
+"179","glass setter",
+"180","publisher",
+"181","firer on locomotive",
+"182","dealer (fish)","Dealer"
+"183","baggage master RR",
+"184","Private",
+"185","sheep shearer",
+"186","pharmacist","Chemist"
+"187","railroader",
+"188","Priest","Clergyman"
+"189","Dairy Man",
+"190","Restaurantor",
+"191","Harness Maker",
+"192","attorney at law","Attorney"
+"193","glass presser",
+"197","iron worker",
+"198","electric machinist",
+"199","glass worker",
+"200","store clerk","Clerk"
+"203","watchmaker",
+"204","Carriage Trimmer",
+"205","Drayman",
+"206","contractor",
+"207","switchman",
+"208","dry goods clerk","Clerk"
+"209","laborer glass factory","Laborer"
+"210","bill clerk","Clerk"
+"212","porter","Porter"
+"214","stock raiser",
+"215","at college","At School"
+"216","Retired merchant",
+"217","mechanic",
+"218","newspaper solicitor",
+"219","book binder",
+"220","Preacher","Clergyman"
+"221","Rougher",
+"222","Oil Producer",
+"223","Gold & Silver Plater",
+"224","servant",
+"225","mold-maker",
+"226","Millright",
+"227","undertaker",
+"228","galvanizer",
+"229","cure up iron",
+"231","conductor",
+"233","silver plating",
+"234","Helper Black Smith",
+"235","laborer silverware factory","Laborer"
+"236","saleslady dry goods","Sales"
+"237","bank clerk","Clerk"
+"238","mail carrier",
+"239","apprentice","Apprentice"
+"240","Stampr",
+"242","Iron Pudler",
+"244","Trim Molder",
+"245","Saloon Keeper",
+"246","Forelady","Foreman"
+"247","Gravel Roofes",
+"248","telegrapher","Telegraph Operator"
+"249","Insurance Agt",
+"250","Pudler",
+"251","saleslady","Sales"
+"252","Accountant (RR)","Accountant"
+"253","Cigar Manufacturer",
+"254","laborer bolt wks","Laborer"
+"255","Policeman",
+"256","manf wood novelties",
+"257","Clerk (gen merchandise)","Clerk"
+"258","proprietor hotel","Proprietor"
+"259","Investor",
+"260","Pasturer",
+"261","Boiler Maker",
+"262","Hostler",
+"263","Molder","Molder"
+"264","Gemsmith",
+"265","Janitor",
+"266","Wagon Maker",
+"267","Optician",
+"268","trained nurse","Nurse"
+"269","Boxmaker",
+"270","farm laborer","Laborer"
+"271","freight house",
+"272","at school (10)","At School"
+"273","tailoress","Tailor"
+"274","puddler",
+"275","landlady",
+"276","retired",
+"277","reporter","Journalist"
+"278","house painter",
+"279","journalist","Journalist"
+"280","physician and surgeon","Doctor"
+"281","county prosecutor",
+"282","presser",
+"283","N G",
+"284","well driller",
+"285","Employment bureau",
+"286","2nd Lieutenant","Military"
+"287","messenger service",
+"288","disabled",
+"289","advertiser",
+"290","gents furnishing R",
+"291","cabinet maker",
+"292","Bag Maker",
+"293","Am Book Co",
+"294","commercial trav",
+"295","carpet layer",
+"296","wood carver",
+"297","Lehr Tender",
+"298","Heater",
+"299","Boiler","Boiler"
+"300","teamster",
+"301","Foundry",
+"302","Apiarian",
+"303","Writer",
+"304","Steam Fitter",
+"305","Principal",
+"306","Office Work",
+"307","President",
+"308","Fisherman",
+"309","Banker",
+"310","County Recorder",
+"311","Mfr. Bridges",
+"312","Grinder silver fcty",
+"313","house work","Domestic"
+"314","Laborer Iron Wks","Laborer"
+"315","Express Driver",
+"316","Ball Player",
+"317","Bolt Maker",
+"318","Works in Restaurant",
+"319","huckster",
+"320","Photographer",
